@@ -1,5 +1,5 @@
 # Data-Cleaning-in-SQL
-Cleaning a dataset using Microsoft SQL
+Cleaning a dataset using Microsoft SQL (Nashville Housing Data / Dataset Uploaded)
 
 * Standardize date format
 * Separate a column that contains more than one information into new separated columns
